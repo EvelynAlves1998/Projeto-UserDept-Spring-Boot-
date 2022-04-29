@@ -1,6 +1,8 @@
 # Projeto-UserDept-Spring-Boot-
 Projeto Java web no Spring Boot 2022 do curso - #DevSuperior - Escola de programação
-
+# Ferramentas
+  Spring Tool Suite (STS)
+  Postman
 # Visão geral do sistema
   Foi construido um pequeno sistema (API REST) de usuários e departamentos, com os seguintes casos de uso:
 
